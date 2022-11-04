@@ -22,11 +22,9 @@ st.markdown('''## this is app demo for streamlit
 * this is app demo for streamlit
 * this is app demo for streamlit
 ''')
+                  
+                   
 
-df =pd.DataFrame ({'Number1' :[num], 'Number2' :[num2]}
-                   
-                   
-st.header("this is the markdown")
 st.markdown("this is the header")
 st.subheader("this is the subheader")
 st.caption("this is the caption")
